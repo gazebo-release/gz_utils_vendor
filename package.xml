@@ -24,9 +24,8 @@
   <buildtool_depend>ament_cmake_test</buildtool_depend>
   <buildtool_depend>ament_cmake_vendor_package</buildtool_depend>
 
-  <build_depend>spdlog_vendor</build_depend>
-  <exec_depend>spdlog_vendor</exec_depend>
   <depend>gz_cmake_vendor</depend>
+  <depend>spdlog_vendor</depend>
 
   <!-- Depend on the package we are vendoring to allow building it from source -->
   <depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-utils3</depend>
