@@ -2,8 +2,8 @@
 Changelog for package gz_utils_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2024-09-30)
+------------------
 * Bump version to 3.0.0 (`#7 <https://github.com/gazebo-release/gz_utils_vendor/issues/7>`_)
 * Add in a dependency on spdlog_vendor. (`#6 <https://github.com/gazebo-release/gz_utils_vendor/issues/6>`_)
   * Add in a dependency on spdlog_vendor.
