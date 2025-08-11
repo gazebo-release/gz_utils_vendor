@@ -25,6 +25,7 @@
   <buildtool_depend>ament_cmake_vendor_package</buildtool_depend>
 
   <buildtool_depend>cmake</buildtool_depend>
+  <depend>cli11</depend>
   <depend>gz_cmake_vendor</depend>
   <depend>spdlog_vendor</depend>
 
