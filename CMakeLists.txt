@@ -53,6 +53,8 @@ ament_vendor(${LIB_NAME_UNDERSCORE}_vendor
   SATISFIED ${${LIB_NAME_FULL}_FOUND}
   VCS_URL https://github.com/gazebosim/${GITHUB_NAME}.git
   VCS_VERSION ${LIB_VCS_VER}
+  CMAKE_ARGS
+    -DGZ_UTILS_VENDOR_CLI11=ON
   GLOBAL_HOOK
 )
 
