@@ -2,8 +2,8 @@
 Changelog for package gz_utils_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.0 (2025-09-08)
+------------------
 * Jetty support: bump to 4.0.0, fix package names (`#11 <https://github.com/gazebo-release/gz_utils_vendor/issues/11>`_)
   * Jetty support: bump to 4.0.0, fix package names
   Major version numbers have been removed from package
