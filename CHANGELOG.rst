@@ -2,8 +2,8 @@
 Changelog for package gz_utils_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.1 (2026-08-31)
+------------------
 * Enable Python bindings (`#15 <https://github.com/gazebo-release/gz_utils_vendor/issues/15>`_)
 * Contributors: Addisu Z. Taddese
 
