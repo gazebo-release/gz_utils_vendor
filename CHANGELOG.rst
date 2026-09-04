@@ -2,8 +2,8 @@
 Changelog for package gz_utils_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.2 (2026-09-04)
+------------------
 * Revert "Enable Python bindings (`#15 <https://github.com/gazebo-release/gz_utils_vendor/issues/15>`_)" (`#17 <https://github.com/gazebo-release/gz_utils_vendor/issues/17>`_)
   * Revert "Enable Python bindings (`#15 <https://github.com/gazebo-release/gz_utils_vendor/issues/15>`_)"
   This reverts commit cccee2847624452654c7fa580e35e1e7f0fea5fc.
