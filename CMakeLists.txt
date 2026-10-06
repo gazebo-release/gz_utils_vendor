@@ -32,7 +32,7 @@ find_package(ament_cmake_vendor_package REQUIRED)
 find_package(ament_cmake_export_dependencies REQUIRED)
 
 find_package(gz_cmake_vendor REQUIRED)
-find_package(spdlog_vendor REQUIRED)
+find_package(spdlog REQUIRED)
 
 # Set the VERSION_MATCH to "EXACT" by default, but relax the requirement
 # if we are users are building from source (determined by the
@@ -71,7 +71,7 @@ endif()
 
 ament_export_dependencies(
   gz_cmake_vendor
-  spdlog_vendor
+  spdlog
 )
 
 if(NOT ${${LIB_NAME_FULL}_FOUND})
