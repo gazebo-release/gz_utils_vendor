@@ -28,7 +28,7 @@
   <build_depend>cli11</build_depend>
   <exec_depend>cli11</exec_depend>
   <depend>gz_cmake_vendor</depend>
-  <depend>spdlog_vendor</depend>
+  <depend>spdlog</depend>
 
   <!-- Depend on the package we are vendoring to allow building it from source -->
   <depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-utils</depend>
