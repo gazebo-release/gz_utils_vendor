@@ -2,8 +2,8 @@
 Changelog for package gz_utils_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.3 (2026-11-19)
+------------------
 * Bump version to 3.2.0 (`#21 <https://github.com/gazebo-release/gz_utils_vendor/issues/21>`_)
 * Contributors: Addisu Z. Taddese
 
